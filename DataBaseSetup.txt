@@ -1,0 +1,4 @@
+Database Setup
+1.	In php admin click database at the top of the page and create a database named test.
+2.	Then click Import at the top of the page and in the file named SecureApp1, select the file "test.sql".
+3.	Scroll to the bottom of the page and click 'Go' which will generate the tables the way I have them on my local machine.
